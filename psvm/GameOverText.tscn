@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="GameOverText" type="RichTextLabel"]
+margin_left = -17.0
+margin_top = -6.33334
+margin_right = 46.0
+margin_bottom = 34.6667
+text = "WIN"
